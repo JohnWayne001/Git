@@ -20,3 +20,8 @@
 
 ### Usando o código: 
 #### cd nome_do_diretório
+### Inicializa um repositório
+<img width="949" height="154" alt="image" src="https://github.com/user-attachments/assets/88848605-a8c5-4b4c-9a84-9a165327256a" />
+
+### Usando o código:
+#### git init repositorio

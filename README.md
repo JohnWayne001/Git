@@ -29,5 +29,12 @@
 <img width="757" height="254" alt="image" src="https://github.com/user-attachments/assets/f03e2a6a-cbdd-48ca-ae82-53cb6cbb7855" />
 
 ### Usando o código:
-#### cd repositorio
-#### ls -la
+#### cd repositorio para navegar para o repositorio
+#### ls -la para listar os arquivos e verificar se a pasta .git está presente
+## Crie um arquivo meu_primeiro_arquivo.txt.
+<img width="737" height="121" alt="image" src="https://github.com/user-attachments/assets/4d3b7f57-055c-4ea3-b065-bb06d57d5377" />
+
+### Usando os códigos:
+#### touch meu_primeiro_arquivo.txt
+#### git add meu_primeiro_arquivo.txt
+## Verifique o status do repositório.

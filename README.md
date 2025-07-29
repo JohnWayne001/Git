@@ -37,9 +37,6 @@
 
 ### Usando os códigos:
 #### touch meu_primeiro_arquivo.txt
-## Verifique o status do repositório.
-<img width="766" height="272" alt="image" src="https://github.com/user-attachments/assets/f7906ee6-acec-456f-93a7-fa33ba349e1f" />
-
 
 ## Adicione o arquivo ao stage.
 <img width="739" height="57" alt="image" src="https://github.com/user-attachments/assets/6ef6b511-6f5f-474e-a42f-0e4034f919ba" />
@@ -55,4 +52,22 @@
 ### Usando o código:
 #### git status
 
+## Faça um commit com mensagem descritiva
+<img width="775" height="177" alt="image" src="https://github.com/user-attachments/assets/da4279d8-cf97-45da-b1ec-65c5934c0489" />
 
+
+### Usando o código:
+#### git commit -m "Sua mensagem aqui"
+
+## Confira o status mais uma vez
+<img width="798" height="90" alt="image" src="https://github.com/user-attachments/assets/f8361650-1767-41a2-9fcb-797c984a3221" />
+
+
+### Usando o código
+#### git status
+
+## Visualize o histórico no diretório do repositório Git
+<img width="824" height="195" alt="image" src="https://github.com/user-attachments/assets/f2271080-d93b-4520-87f6-f89d16419886" />
+
+### Usando o código
+#### git log
